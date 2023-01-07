@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MathJax on yudisme</title>
-    <link>/tags/mathjax/</link>
+    <link>https://qodri588.github.io/test/tags/mathjax/</link>
     <description>Recent content in MathJax on yudisme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id-id</language>
-    <lastBuildDate>Sat, 14 Apr 2018 00:00:00 +0000</lastBuildDate><atom:link href="/tags/mathjax/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Apr 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://qodri588.github.io/test/tags/mathjax/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MathJax</title>
-      <link>/post/mathjax/</link>
+      <link>https://qodri588.github.io/test/post/mathjax/</link>
       <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/mathjax/</guid>
+      <guid>https://qodri588.github.io/test/post/mathjax/</guid>
       <description>&lt;p&gt;MathJax JavaScript library allows you to include mathematics in your web pages for viewing in any modern browser.&lt;/p&gt;</description>
     </item>
     
